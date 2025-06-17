@@ -2,10 +2,13 @@
 
 ---
 
+- Formado em Análise e Desenvolvimento de Sistemas, atualmente trabalhando como Trainee de Tecnologia, minhas competências incluem Python e GCP. Empolgado para crescer e fazer a diferença no mundo da tecnologia. 
+
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,c,py,unreal,unity,vscode,js,html,css" />
+  </a>
+</p>
 <br />
