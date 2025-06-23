@@ -2,7 +2,7 @@
 
 ---
 
-- Formado em Análise e Desenvolvimento de Sistemas, atualmente trabalhando como Trainee de Tecnologia, minhas competências incluem Python e GCP. Empolgado para crescer e fazer a diferença no mundo da tecnologia. 
+- Formado em Análise e Desenvolvimento de Sistemas, atualmente trabalhando como Trainee de Tecnologia, minhas competências incluem Python para analise de dados e Java, Spring para o Back-End. Empolgado para crescer e fazer a diferença no mundo da tecnologia. 
 
 ### 🧰 Languages and Tools
 
