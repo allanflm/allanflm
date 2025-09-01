@@ -14,7 +14,7 @@ Aqui você encontrará meus projetos e experimentos com Java, Python, SQL, Datab
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+  <a href="https://www.linkedin.com/in/allanflm/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:allanfelipedk@gmail.com">
