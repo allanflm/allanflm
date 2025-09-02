@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+    <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allanflm&theme=dark">
+
 </p>
 
 <p align="center">
