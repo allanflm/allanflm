@@ -33,13 +33,3 @@ Aqui você encontrará meus projetos e experimentos com Java, Python, SQL, Datab
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=allanflm&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
-
-### 🟩 Minha Energia de Commits
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=allanflm&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
