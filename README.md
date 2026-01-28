@@ -1,35 +1,6 @@
-<h1 align="center">Olá, eu sou Allan 👋</h1>
+<p>👨‍💻 Data Engineer at <a href="https://hvarconsulting.com.br/" target="blank_">Hvar Consulting </a></p>
+<p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.unopar.com.br/" target="blank_">Unopar </a></p>
+<p>☁️ <a href="https://www.credly.com/badges/e196cc9b-1ab4-46f2-a95b-b2b11f430d44/public_url">1x Cloud Digital Leader Certification </a></p>
 
-<p align="center">
-<em>Consultor de Dados • Engenharia de Dados • Entusiasta de Tecnologia</em>
-</p>
 
-<p align="center">
-    <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allanflm&theme=dark">
-
-</p>
-
-<p align="center">
-Sou apaixonado por tecnologia, aprendizado e criatividade.<br>
-Aqui você encontrará meus projetos e experimentos com Java, Python, SQL, Databricks e mais :)
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/allanflm/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:allanfelipedk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-### 🧠 Sobre Mim
-  - ✨ Consultor na HVAR consulting
-  - 🔭 Trabalhando em projetos com Databricks e SQL
-  - 🧑‍🏫 Formado(a) em Analise E Desenvolvimento de Sistemas
-
-### 💻 Destaques do meu Stack Tecnológico
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,postgresql,mysql,gcp)](https://skillicons.dev)
